@@ -1,5 +1,5 @@
 # hdhrxml.php
-Simple script to grab stats from a T-Mobile Sagemcom FAST5688W 5G modem. Other scripts seem to include way too many libraries to do such simple requests.
+Simple script to grab stats from a T-Mobile Sagemcom FAST5688W 5G modem. Other scripts seem to include way too many libraries to do such simple requests. If nothing else, this should quickly show you all of the common endpoints and the method to communicate with them.
 
 ## Setup
 ### You only need to modify 1 variable to specify your modem's password.
